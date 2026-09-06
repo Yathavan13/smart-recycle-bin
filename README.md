@@ -1,4 +1,4 @@
-# AI Smart Waste Segregation Dustbin
+# Smart dustbin
 
 ## Overview
 This project is an AI-based Smart Waste Segregation Dustbin that automatically classifies waste into Reusable and Non-Reusable categories using an ESP32-CAM and an Edge Impulse machine learning model. Based on the prediction, an Arduino Uno controls a servo motor to direct the waste into the appropriate bin.
